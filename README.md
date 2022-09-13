@@ -1,0 +1,2 @@
+# Lab-Maintenace-QueryPortal
+Lab Query Portal is web-based an application in which customers can register their complaint, these queries are then sent to staff which resolve the queries and update the status of the queries. The admin is able to track the complaints registered and solved. Admins can also add or delete a user. The portal has multiple logins for customer, staff and admin. Thus, Lab Maintenance Query Portal ease process of registering complaints. The system proposed also keeps the track of the complaints registered.
