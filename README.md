@@ -73,3 +73,6 @@ Created by:
 1. Suraj Singh
 2. Athrava Takle
 3. Himanshu Rane
+
+#About
+My name is Suraj Singh. I'm studying Information Technology . Contact me for any improvement/suggestions or having any difficulty for setup the project. Email : surajsingh04092002@gmail.com
