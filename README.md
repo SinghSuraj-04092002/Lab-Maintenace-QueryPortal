@@ -44,7 +44,7 @@ The Lab MAintenece Query Portal was developed using HTML, PHP/MySQLi, CSS, JavaS
 
 #How to Run
 
-Download the Project.zip and TCPPDF-main.zip extract the zip file.
+Download the Project.zip and TCPDF-main.zip extract the zip file also download css_db.sql.
 
 Paste the TCPDF-main folder into Project Folder.
 
@@ -52,7 +52,7 @@ Download or set up any local web server that runs PHP script.
 
 Open the web-server database and create a new database name it css_db.
 
-Import the SQL file located in the database folder of the source code.
+Import the SQL file that is downloaded from this repoistory.
 
 Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
 
