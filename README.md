@@ -36,12 +36,17 @@ The page where the admin can manage the list of staff.
 @ Departments Page
 The page where the admin can manage the list of departments.
 
+@ Create PDF
+We can Create PDF of the list or data for future reference.
+
 
 The Lab MAintenece Query Portal was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
 
 #How to Run
 
-Download the source code and extract the zip file.
+Download the Project.zip and TCPPDF-main.zip extract the zip file.
+
+Paste the TCPDF-main folder into Project Folder.
 
 Download or set up any local web server that runs PHP script.
 
